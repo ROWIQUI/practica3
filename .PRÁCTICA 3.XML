@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <mercadona>
+    <direccion>avenida america 13</direccion>
+    <coordenadas>41°15'14.3 N</coordenadas>
+    <coordenadas>3°12'22.4 E</coordenadas>
+  </mercadona>
+  <mercadona>
+    <nombreDeSeccion>Frutería</nombreDeSeccion>
+    <productos>
+      <nombreDeProducto>Manzana</nombreDeProducto>
+      <vigencia>semanal</vigencia>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">true</adquirido>
+      <unidad number="true">4</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">1.89</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Plátano</nombreDeProducto>
+      <vigencia>semanal</vigencia>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">false</adquirido>
+      <unidad number="true">2</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">1.99</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Sandía</nombreDeProducto>
+      <vigencia>10 días</vigencia>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+      <unidad number="true">1</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">1.79</precio>
+    </productos>
+  </mercadona>
+  <mercadona>
+    <nombreDeSeccion>Carnicería</nombreDeSeccion>
+    <productos>
+      <nombreDeProducto>Pechuga de pollo</nombreDeProducto>
+      <vigencia>un mes</vigencia>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">true</adquirido>
+      <unidad number="true">2</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">6.55</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Filetes de pavo</nombreDeProducto>
+      <vigencia>Dos semanas</vigencia>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+      <unidad number="true">6</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">5.23</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Chuletas de cordero</nombreDeProducto>
+      <vigencia>10 días</vigencia>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+      <unidad number="true">10</unidad>
+      <unidadDeMedida>kilogramo</unidadDeMedida>
+      <precio number="true">18.65</precio>
+    </productos>
+  </mercadona>
+  <mercadona>
+    <nombreDeSeccion>Perfumería</nombreDeSeccion>
+    <productos>
+      <nombreDeProducto>Champú Johnson Baby</nombreDeProducto>
+      <vigencia>un año</vigencia>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">true</adquirido>
+      <unidad number="true">1</unidad>
+      <unidadDeMedida>mililitro</unidadDeMedida>
+      <precio number="true">3.62</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Colonia Dudu</nombreDeProducto>
+      <vigencia>8 años</vigencia>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">false</adquirido>
+      <unidad number="true">1</unidad>
+      <unidadDeMedida>mililitro</unidadDeMedida>
+      <precio number="true">5.20</precio>
+    </productos>
+    <productos>
+      <nombreDeProducto>Maquinillas</nombreDeProducto>
+      <vigencia>6 meses</vigencia>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">true</adquirido>
+      <unidad number="true">10</unidad>
+      <unidadDeMedida>paquetes</unidadDeMedida>
+      <precio number="true">2.35</precio>
+    </productos>
+  </mercadona>
+</root>

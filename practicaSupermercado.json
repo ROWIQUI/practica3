@@ -1,0 +1,317 @@
+{
+	"mercadona": [
+		{
+			"direccion": "avenida america 13",
+			"coordenadas": [
+				"41°15'14.3 N",
+				"3°12'22.4 E"
+			]
+		},
+		{
+			"nombreDeSeccion": "Frutería",
+			"productos": [
+				{
+					"nombreDeProducto": "Manzana",
+					"vigencia": "semanal",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 4,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.89
+				},
+				{
+					"nombreDeProducto": "Plátano",
+					"vigencia": "semanal",
+					"oferta": false,
+					"adquirido": false,
+					"unidad": 2,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.99
+				},
+				{
+					"nombreDeProducto": "Sandía",
+					"vigencia": "10 días",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.79
+				}
+			]
+		},
+		{
+			"nombreDeSeccion": "Carnicería",
+			"productos": [
+				{
+					"nombreDeProducto": "Pechuga de pollo",
+					"vigencia": "un mes",
+					"oferta": false,
+					"adquirido": true,
+					"unidad": 2,
+					"unidadDeMedida": "kilogramo",
+					"precio": 6.55
+				},
+				{
+					"nombreDeProducto": "Filetes de pavo",
+					"vigencia": "Dos semanas",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 6,
+					"unidadDeMedida": "kilogramo",
+					"precio": 5.23
+				},
+				{
+					"nombreDeProducto": "Chuletas de cordero",
+					"vigencia": "10 días",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 10,
+					"unidadDeMedida": "kilogramo",
+					"precio": 18.65
+				}
+			]
+		},
+		{
+			"nombreDeSeccion": "Perfumería",
+			"productos": [
+				{
+					"nombreDeProducto": "Champú Johnson Baby",
+					"vigencia": "un año",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 3.62
+				},
+				{
+					"nombreDeProducto": "Colonia Dudu",
+					"vigencia": "8 años",
+					"oferta": false,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 5.20
+				},
+				{
+					"nombreDeProducto": "Maquinillas",
+					"vigencia": "6 meses",
+					"oferta": false,
+					"adquirido": true,
+					"unidad": 10,
+					"unidadDeMedida": "paquetes",
+					"precio": 2.35
+				}
+			]
+		}
+	],
+	"alcampo": [
+		{
+			"direccion": "calle valdivia 7",
+			"coordenadas": [
+				"38°12'17.3 N",
+				"9°7'29.8 E"
+			]
+		},
+		{
+			"nombreDeSeccion": "Frutería",
+			"productos": [
+				{
+					"nombreDeProducto": "Manzana",
+					"vigencia": "semanal",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 4,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.79
+				},
+				{
+					"nombreDeProducto": "Plátano",
+					"vigencia": "semanal",
+					"oferta": false,
+					"adquirido": false,
+					"unidad": 2,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.89
+				},
+				{
+					"nombreDeProducto": "Sandía",
+					"vigencia": "10 días",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.89
+				}
+			]
+		},
+		{
+			"nombreDeSeccion": "Carnicería",
+			"productos": [
+				{
+					"nombreDeProducto": "Pechuga de pollo",
+					"vigencia": "un mes",
+					"oferta": false,
+					"adquirido": true,
+					"unidad": 2,
+					"unidadDeMedida": "kilogramo",
+					"precio": 6.65
+				},
+				{
+					"nombreDeProducto": "Filetes de pavo",
+					"vigencia": "Dos semanas",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 6,
+					"unidadDeMedida": "kilogramo",
+					"precio": 5.35
+				},
+				{
+					"nombreDeProducto": "Chuletas de cordero",
+					"vigencia": "10 días",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 10,
+					"unidadDeMedida": "kilogramo",
+					"precio": 18.50
+				}
+			]
+		},
+		{
+			"nombreDeSeccion": "Perfumería",
+			"productos": [
+				{
+					"nombreDeProducto": "Champú Johnson Baby",
+					"vigencia": "un año",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 3.52
+				},
+				{
+					"nombreDeProducto": "Colonia Dudu",
+					"vigencia": "8 años",
+					"oferta": false,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 5.30
+				},
+				{
+					"nombreDeProducto": "Maquinillas",
+					"vigencia": "6 meses",
+					"oferta": false,
+					"adquirido": true,
+					"unidad": 10,
+					"unidadDeMedida": "paquetes",
+					"precio": 2.45
+				}
+			]
+		}
+	],
+	"carrefour": [
+		{
+			"direccion": "calle ventol 9",
+			"coordenadas": [
+				"45°13'11.8 N",
+				"7°14'33.9 E"
+			]
+		},
+		{
+			"nombreDeSeccion": "Frutería",
+			"productos": [
+				{
+					"nombreDeProducto": "Manzana",
+					"vigencia": "semanal",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 4,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.68
+				},
+				{
+					"nombreDeProducto": "Plátano",
+					"vigencia": "semanal",
+					"oferta": false,
+					"consumoHabitual": false,
+					"unidad": 2,
+					"adquirido": "kilogramo",
+					"precio": 2.15
+				},
+				{
+					"nombreDeProducto": "Sandía",
+					"vigencia": "10 días",
+					"oferta": true,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "kilogramo",
+					"precio": 1.55
+				}
+			]
+		},
+            {
+		"nombreDeSeccion": "Carnicería",
+		"productos": [
+			{
+				"nombreDeProducto": "Pechuga de pollo",
+				"vigencia": "un mes",
+				"oferta": false,
+				"adquirido": true,
+				"unidad": 2,
+				"unidadDeMedida": "kilogramo",
+				"precio": 6.34
+			},
+			{
+				"nombreDeProducto": "Filetes de pavo",
+				"vigencia": "Dos semanas",
+				"oferta": true,
+				"adquirido": false,
+				"unidad": 6,
+				"unidadDeMedida": "kilogramo",
+				"precio": 5.50
+			},
+			{
+				"nombreDeProducto": "Chuletas de cordero",
+				"vigencia": "10 días",
+				"oferta": true,
+				"adquirido": false,
+				"unidad": 10,
+				"unidadDeMedida": "kilogramo",
+				"precio": 19
+			}
+		]
+	},
+            {
+			"nombreDeSeccion": "Perfumería",
+			"productos": [
+				{
+					"nombreDeProducto": "Champú Johnson Baby",
+					"vigencia": "un año",
+					"oferta": true,
+					"adquirido": true,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 3.60
+				},
+				{
+					"nombreDeProducto": "Colonia Dudu",
+					"vigencia": "8 años",
+					"oferta": false,
+					"adquirido": false,
+					"unidad": 1,
+					"unidadDeMedida": "mililitro",
+					"precio": 5.15
+				},
+				{
+					"nombreDeProducto": "Maquinillas",
+					"vigencia": "6 meses",
+					"oferta": false,
+					"adquirido": true,
+					"unidad": 10,
+					"unidadDeMedida": "paquetes",
+					"precio": 2.55
+				}
+			]
+		}
+	]
+	}
